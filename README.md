@@ -13,8 +13,8 @@ My solutions for the [Advent of Code 2023](https://adventofcode.com/2023)
 problems.
 
 ![](https://img.shields.io/badge/day%20📅-12-blue)
-![](https://img.shields.io/badge/stars%20⭐-20-yellow)
-![](https://img.shields.io/badge/days%20completed-10-red)
+![](https://img.shields.io/badge/stars%20⭐-22-yellow)
+![](https://img.shields.io/badge/days%20completed-11-red)
 
 ## Running
 
